@@ -1,6 +1,6 @@
 https://www.canva.com/design/DAGp1xSOz3M/xtdD2hqklm2962ORwW8c_g/edit?utm_content=DAGp1xSOz3M&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
-Controlling LED Light Effects via Telegram Chatroom
+Controlling Neopixel lighting effects and lampshade rotation through Telegram chatroom
 
 Commands:
 
