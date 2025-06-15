@@ -13,3 +13,7 @@ Commands:
 "blue" = Blue light
 
 "sleep" = Gradually dim and turn off the light after 5 seconds
+-----------------------------------------
+"run" = Start rotating the lampshade (motor)
+
+"stop" = Stop rotating the lampshade (motor)
